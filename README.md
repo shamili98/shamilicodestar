@@ -1,4 +1,4 @@
-Hi all learning codestar
+Hi all learning codepipeline
 Welcome to the AWS CodeStar sample web service
 ==============================================
 
